@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.imooc.product.ProductApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.323 s <<< FAILURE! - in com.imooc.product.ProductApplicationTests
+initializationError(com.imooc.product.ProductApplicationTests)  Time elapsed: 0.006 s  <<< ERROR!
+java.lang.Exception: No runnable methods
+
